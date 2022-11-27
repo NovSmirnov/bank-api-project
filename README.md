@@ -1,6 +1,6 @@
 # bank-api-project
 Первый этап создания API для банка.
-Создана база данных PostgreSQL (Дамп базы banking.txt находится в папке resources)
+Создана база данных PostgreSQL (Дамп базы banking.txt находится в папке scr/main/resources)
 Скрин первой таблицы прикладываю:
 
 ![DbFirstCommit](https://user-images.githubusercontent.com/94735019/204122675-4717dfcc-c081-434f-88ff-320e8a467376.JPG)
